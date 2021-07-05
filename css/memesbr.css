@@ -1,0 +1,72 @@
+.meme{
+width: 200px;
+height: 200px;
+margin-left: 35%;
+animation-name: roda;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+animation-direction: normal;
+animation-timing-function: linear;
+border-radius: 50%;
+}
+@keyframes roda{
+    0%{
+        transform: rotate(0deg);
+
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+#rodarhobi{
+    float: left;
+    margin-left: 100px;
+
+}
+
+#rodarv{
+    float: left;
+    margin-left: 50px;
+}
+#rodarkook{
+    float: left;
+    margin-left:  50px;
+}
+#rodasuga{
+    float: left;
+    margin-left: 50px;
+}
+#centro{
+    text-align: center;
+}
+
+#esquerda{
+    float: left;
+    margin-left: 100px;
+    padding-top: 20px;
+
+}
+#meio{
+    float: left;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+#direita{
+    
+    margin-left: 20px;
+    padding-top: 20px;
+}
+
+#rodarjimin{
+    float: left;
+    margin-left: 200px;
+}
+
+#rodarjin{
+    float: left;
+    margin-left: 50px;
+}
+
+#rodarrm{
+    margin-left: 50px;
+}

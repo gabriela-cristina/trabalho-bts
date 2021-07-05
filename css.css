@@ -1,0 +1,162 @@
+body{
+    background-image: url(imagens/pagina1/outra.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    
+} 
+h1{  
+    font-family: 'Abril Fatface', cursive;
+   
+}
+
+.letra{
+    color: rgb(153, 153, 153);
+    font-family: 'Gelasio', serif;
+    font-size: larger;
+    
+
+}
+mark{
+    background-color: rgba(42, 42, 42, 0.609) ;
+}
+#corDefundo{
+    background-color:rgba(0, 0, 0, 0.527) ; 
+    margin-left: 50px ;
+    margin-right: 50px;
+    margin-top: 24px;
+    margin-bottom: 24px ;
+    padding-left: 35px;
+
+}
+.titulo{
+    color: rgb(57, 2, 187);
+    font-size: 30px;
+}
+    
+    
+   
+
+.centro{
+   text-align: center;
+}
+#link{
+    text-align: center;
+}
+a { text-decoration: none;
+    color: inherit;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#RM{ float: left;
+    margin-left: 100px;
+    
+}
+
+#Jin{ float: left;
+    margin-left: 50px;
+     
+}
+#Suga{
+    float: left;
+    margin-left:  50px;
+   
+}
+#imagemPrincipal{
+    margin:0 auto;
+    display: block;
+}
+#J-Hope{
+    float: right;
+    margin-right: 150px;
+    margin-left: 20px;
+    
+}
+
+#Jimin{
+    float: left;
+    margin-left: 200px;
+
+}
+
+#V{
+    float: left;
+    margin-left: 50px ;
+    margin-right: 50px;
+}
+#Jungkook{
+   margin-right: 250px;
+   
+}
+#subtitulo{
+    color: rgb(92, 30, 207);
+}
+.alinharAesquerda{
+    float: right ;
+    padding-right: 100px;
+}
+
+nav ul{
+    box-sizing: border-box ;
+    padding: 15px;
+    list-style-type: none;
+    width: 100%;
+    display: flex ;
+    flex-direction: row;
+    justify-content: space-around ;
+}
+nav ul li a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: 20px;
+}
+nav ul li a:hover{
+    cursor: pointer;
+    color: rgb(68, 67, 67);
+    border-bottom: 0px solid ; 
+    text-align: center;
+}
+
+#BTS{ color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+
+    
+
+}
+#cabeçalho{
+text-align: center;
+    
+  
+  margin: 0;
+  border: solid ;
+  padding-left: 0%;
+}
+#albuns{
+    text-align: center;
+    color: rgb(180, 179, 179);
+}
+#video{
+    margin:0 auto;
+    display: block;
+
+}
+
+#nome{
+    color: aliceblue;
+}
+#albuns{
+    color: rgb(162, 111, 209);
+}
+#rodape{
+    background-color: rgba(57, 2, 185, 0.829);
+    font-size: 20px;
+    text-align: center;
+    color: white;
+   margin: 30px;
+}
